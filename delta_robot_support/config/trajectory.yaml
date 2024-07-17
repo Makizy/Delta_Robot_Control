@@ -1,0 +1,14 @@
+header:
+  seq: 0
+  stamp: {secs: 0, nsecs: 0}
+  frame_id: ''
+joint_names:
+  - link_0_JOINT_1
+  - link_0_JOINT_2
+  - link_0_JOINT_3
+points:
+  - positions: [0.5, 0.5, 0.5]
+    velocities: [0, 0, 0]
+    accelerations: [0, 0, 0]
+    effort: [0, 0, 0]
+    time_from_start: {secs: 5, nsecs: 0}
